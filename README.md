@@ -2,6 +2,8 @@
 
 [The beekeeb Toucan2 Keyboard](https://beekeeb.com/introducing-toucan2/) is a wireless split 42-key column‑stagger keyboard that a display and a trackpad, with an aggressive stagger on the pinky columns.
 
+The changes to this fork are completely vibe coded, beware.
+
 # Customizations
 
 - **Keymap**: [config/toucan.keymap](config/toucan.keymap)
@@ -18,5 +20,9 @@ The included shield nice_view_gem is modified from https://github.com/M165437/ni
 The linked trackpad module is based on https://github.com/geeksville/zmk_driver_azoteq
 
 ZMK code snippets are taken from the ZMK documentation under the MIT license.
+
+The bongo cat animation frames are taken from the ZMK bongo cat widget branch at
+https://github.com/petejohanson/zmk/tree/display/bongo-cat-widget, Copyright (c) 2021 The ZMK
+Contributors, licensed under the MIT License.
 
 The embedded font QuinqueFive is designed by GGBotNet, licensed under under the SIL Open Font License, Version 1.1.
